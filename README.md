@@ -1,4 +1,4 @@
-## Project Title: Data Science and Machine Learning Capstone Project
+## Data Science and Machine Learning Capstone Project
 ## Objective: To analyze housing complaints in New York City and develop a predictive model to forecast future complaints.
 
 ## Introduction and Objectives
